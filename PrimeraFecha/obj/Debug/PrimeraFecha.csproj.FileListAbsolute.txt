@@ -1,0 +1,6 @@
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\obj\Debug\PrimeraFecha.csprojResolveAssemblyReference.cache
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\bin\Debug\PrimeraFecha.exe.config
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\bin\Debug\PrimeraFecha.exe
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\bin\Debug\PrimeraFecha.pdb
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\obj\Debug\PrimeraFecha.exe
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\PrimeraFecha\PrimeraFecha\obj\Debug\PrimeraFecha.pdb
